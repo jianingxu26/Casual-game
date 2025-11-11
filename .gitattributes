@@ -1,0 +1,5 @@
+*.apk* filter=lfs diff=lfs merge=lfs -text
+*.APK* filter=lfs diff=lfs merge=lfs -text
+*.apk.1.1 filter=lfs diff=lfs merge=lfs -text
+XiYou.apk.1.1 filter=lfs diff=lfs merge=lfs -text
+CapSanXiao.apk.1.1 filter=lfs diff=lfs merge=lfs -text
